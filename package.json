@@ -1,8 +1,8 @@
 {
   "name": "aui-vue-decorator",
-  "version": "0.01",
+  "version": "1.0.2",
   "description": "Typescript Decorator For Vue In Agree Selfservice",
-  "main": "lib/vue-aui-decorator.umd.js",
+  "main": "lib/aui-vue-decorator.js",
   "keywords": [
     "vue",
     "typescript",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaorun343/vue-property-decorator.git"
+    "url": "git+https://github.com/XieYuanCode/aui-vue-decorator"
   },
   "bugs": {
-    "url": "https://github.com/kaorun343/vue-property-decorator/issues"
+    "url": "https://github.com/XieYuanCode/aui-vue-decorator/issues"
   },
-  "homepage": "https://github.com/kaorun343/vue-property-decorator#readme"
+  "homepage": "https://github.com/XieYuanCode/aui-vue-decorator#readme"
 }
