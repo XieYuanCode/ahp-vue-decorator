@@ -1,6 +1,6 @@
 {
   "name": "aui-vue-decorator",
-  "version": "1.0.4-beta",
+  "version": "1.0.5-beta",
   "description": "Typescript Decorator For Vue In Agree Selfservice",
   "main": "lib/aui-vue-decorator.js",
   "keywords": [
