@@ -3,18 +3,35 @@ Typescript Decorator For Vue In Agree Selfservice
 
 ***
 
-## @Data
-provide decorator @Data
+## inatall
 
-### @Data Example
-    @Data foo: string = "foo"
-    @Data bar: number = 1
+### yarn
+    yarn add aui-vue-decorator
 
+### npm
+    npm install -g aui-vue-decorator
 
 ***
 
-## @FromDm
-provide decorator @FromDm
+## Getting Started
 
-### @FromDm Exapmle
-    @FromDm
+### @Data
+provide decorator @Data
+
+The data object for the Vue instance
+    
+    import { Data } from "aui-vue-decorator"
+
+    @Data foo: string = "foo"
+    @Data bar: string = "bar"
+
+
+### @FromDm (unfinished)
+provide decorator @FromDm 
+
+The data object map from dm for the Vue instance
+
+    import { Data, FromDm } from "aui-vue-decorator"
+
+    @Data @FromDm foo: string
+    @Data @FromDm bar: string
